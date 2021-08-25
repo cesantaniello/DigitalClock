@@ -1,1 +1,1 @@
-# DigitalClock
+# A Digital clock made with JavaScript
